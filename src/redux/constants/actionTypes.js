@@ -1,0 +1,7 @@
+export const ActionType = {
+    ASYNC_PLAYER_TRANSCRIPT: 'ASYNC_PLAYER_TRANSCRIPT',
+    SET_AUDIO_TIME_BY_WORD: 'SET_AUDIO_TIME_BY_WORD',
+    SEARCH_STORIES: 'SEARCH_STORIES'
+}
+
+export default ActionType;
